@@ -1,0 +1,27 @@
+body{
+    background-color: #faf1e8;
+    color: #5fa9ce;
+}
+
+.formato{
+    width: 1110px;
+    height: 280px;
+}
+.formatacao{
+    margin-left: 41%;
+    margin-top: 25px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    color: #5fa9ce;
+}

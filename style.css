@@ -1,0 +1,23 @@
+.formato{
+    width: 1110px;
+    height: 310px;
+}
+body{
+    background-color: #91ebd2;
+    color: white;
+
+}
+.formatacao{
+    margin-left: 40%;
+
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    color: white;
+
+}
