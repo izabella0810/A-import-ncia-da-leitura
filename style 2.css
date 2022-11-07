@@ -1,6 +1,8 @@
 body{
-    background-color: #faf1e8;
-    color: #5fa9ce;
+    background-color:#faf1e8 ;
+    color: #3f8bc3;
+    font-size: 20px;
+
 }
 
 .formato{
@@ -25,3 +27,6 @@ ul{
 a{
     color: #5fa9ce;
 }
+ .paragrafo{
+    margin-top: 30px;
+ }
